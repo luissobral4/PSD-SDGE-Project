@@ -1,0 +1,3 @@
+car:accelerate,brake,hand-brake-ok,hand-brake-off,turn-left,turn-right
+light:on,off
+drone:up,down,start-record,stop-recording
